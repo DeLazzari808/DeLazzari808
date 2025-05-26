@@ -47,7 +47,7 @@ Sempre aberto a colaborações e a aprender algo novo. Se tiver um projeto inter
 
 ---
 
-#### 📊 **Meu GitHub em números (Opcional, mas legal!)**
+#### 📊 **Meu GitHub em números!**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeLazzari808&show_icons=true&theme=dark" alt="Suas estatísticas do GitHub" />
