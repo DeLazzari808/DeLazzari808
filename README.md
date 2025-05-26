@@ -35,7 +35,7 @@ Sou um **Full-Stack Dev** que ama construir coisas que funcionam e resolver queb
 ### 🚀 **O que eu estou construindo/explorando:**
 
 * **Desenvolvimento de APIs & Integrações:** Construindo pontes entre sistemas para fazer a mágica acontecer.
-* **Otimização de Performance:** Obsessão por código rápido e eficiente (sim, inclusive SQL!).
+* **Otimização de Performance:** Obsessão por código rápido e eficiente.
 * **Modernização de Sistemas:** Transformando o legado em algo novo e funcional.
 * **Explorando Novas Soluções:** Mergulhando em Low-Code e IA para agilizar o desenvolvimento e criar soluções inteligentes.
 
