@@ -1,4 +1,4 @@
-# João Lazzari ✨
+# João Pedro De Lazzari ✨
 
 ### Desenvolvedor Full-Stack | Explorador de IA & Low-Code
 
