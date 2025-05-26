@@ -49,8 +49,7 @@ Sempre aberto a colaborações e a aprender algo novo. Se tiver um projeto inter
 
 #### 📊 **Meu GitHub em números (Opcional, mas legal!)**
 
-```markdown
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)" alt="Suas estatísticas do GitHub" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)" alt="Suas linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeLazzari808&show_icons=true&theme=dark" alt="Suas estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLazzari808&layout=compact&theme=dark" alt="Suas linguagens mais usadas" />
 </p>
