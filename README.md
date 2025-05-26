@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/delazzari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:joaopedrodelazzari2@gmail.com">
+  <a href="mailto:delazzari.dev@gmail.com?subject=Oportunidade%20via%20GitHub%20-%20João%20Lazzari&body=Olá%20João,%0D%0A%0D%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20fiquei%20impressionado%20com%20sua%20experiência%20em%20desenvolvimento%20Full-Stack%20(PHP/JavaScript)%20e%20seu%20interesse%20em%20IA%20e%20Low-Code.%0D%0A%0D%0AGostaria%20de%20conversar%20mais%20sobre%20[Mencione%20o%20assunto%20aqui,%20ex:%20uma%20vaga,%20um%20projeto,%20colaboração].%0D%0A%0D%0AFico%20no%20aguardo%20do%20seu%20contato.%0D%0A%0D%0AAtenciosamente,%0D%0A[Seu%20Nome]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   </p>
@@ -22,7 +22,8 @@ Sou um **Full-Stack Dev** que ama construir coisas que funcionam e resolver queb
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,vue,jquery,bootstrap,git,github,vscode" alt="Linguagens e Ferramentas Principais" />
   <br>
-  <img src="https://skillicons.dev/icons?i=py,figma,aws" alt="Interesses em IA, Low-Code e Cloud" /> </p>
+  <img src="https://skillicons.dev/icons?i=py,figma,aws" alt="Interesses em IA, Low-Code e Cloud" /> 
+</p>
 
 **Stack Principal:** PHP 7.4+, JavaScript, HTML5, CSS Responsivo, MySQL.
 **Frameworks/Bibliotecas:** Vue.js, jQuery, Bootstrap 5.
@@ -46,4 +47,10 @@ Sempre aberto a colaborações e a aprender algo novo. Se tiver um projeto inter
 
 ---
 
-#### 📊 **Meu GitHub em números **
+#### 📊 **Meu GitHub em números (Opcional, mas legal!)**
+
+```markdown
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)" alt="Suas estatísticas do GitHub" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)" alt="Suas linguagens mais usadas" />
+</p>
