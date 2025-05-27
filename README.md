@@ -13,7 +13,7 @@
   </a>
   </p>
 
-Sou um **Full-Stack Dev** que ama construir coisas que funcionam e resolver quebra-cabeças no código. Minha paixão me leva do **PHP** e **JavaScript** a explorar o universo da **Inteligência Artificial** e das soluções **Low-Code**. Sempre aprendendo e pronto para o próximo desafio!
+**Full-Stack Dev** que ama construir coisas que funcionam e resolver quebra-cabeças no código. Minha paixão me leva do **PHP** e **JavaScript** a explorar o universo da **Inteligência Artificial** e das soluções **Low-Code**. Sempre aprendendo e pronto para o próximo desafio!
 
 ---
 
