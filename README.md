@@ -1,6 +1,6 @@
 # João Pedro De Lazzari ✨
 
-### Desenvolvedor Full-Stack | Explorador de IA & Low-Code
+### Desenvolvedor Full-Stack | Emerging AI Professional
 
 ---
 
