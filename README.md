@@ -1,7 +1,6 @@
 # João Pedro De Lazzari ✨
 
-### Desenvolvedor Full-Stack | Emerging AI Professional
-
+### Full-Stack Dev | Java, JS, Vue.js | Node.js, React, Next.js | Em expansão: APIs, Segurança, IA, ML
 ---
 
 <p align="center">
