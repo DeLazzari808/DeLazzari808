@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro De Lazzari</h1>
 
 <p align="center">
-  Full-Stack Developer proficient in JavaScript, React, Java, Vue.js Node.js, Next.js | Em expansão: APIs, Segurança, IA, ML and the cloud ecosystem. Throughout my career, I have built web applications, complete platforms, and optimized systems for clients. Today, my main focus is on API development, modernizing legacy systems, and exploring AI solutions for real-world problems.
+  Full-Stack Developer proficient in JavaScript, React, Java, Vue.js Node.js, Next.js | Expansion: APIs, Segurança, IA, ML and the cloud ecosystem. Throughout my career, I have built web applications, complete platforms, and optimized systems for clients. Today, my main focus is on API development, modernizing legacy systems, and exploring AI solutions for real-world problems.
 </p>
 
 <p align="center">
