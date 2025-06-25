@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro De Lazzari</h1>
 
 <p align="center">
-  Full-Stack Developer proficient in JavaScript, PHP, and the cloud ecosystem. Throughout my career, I have built web applications, complete platforms, and optimized systems for clients. Today, my main focus is on API development, modernizing legacy systems, and exploring AI solutions for real-world problems.
+  Full-Stack Developer proficient in JavaScript, React, and the cloud ecosystem. Throughout my career, I have built web applications, complete platforms, and optimized systems for clients. Today, my main focus is on API development, modernizing legacy systems, and exploring AI solutions for real-world problems.
 </p>
 
 <p align="center">
@@ -47,5 +47,17 @@ These are some projects I have developed that reflect my areas of expertise.
 ### 🛠️ Main Tools & Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw
