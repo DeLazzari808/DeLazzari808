@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/delazzari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/DeLazzari808/Portfolio" target="_blank">
+  <a href="https://delazzari-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
   <a href="mailto:joaopedrodelazzari2@gmail.com" target="_blank">
@@ -22,7 +22,7 @@
 - **Desenvolvimento de APIs e Integrações:** Construindo pontes robustas entre sistemas.
 - **Otimização de Performance:** Analisando e melhorando a velocidade e eficiência de aplicações.
 - **Modernização de Sistemas:** Migrando e atualizando lógicas de negócio de PHP para arquiteturas mais modernas.
-- **Soluções com IA e Low-Code:** Explorando o futuro do desenvolvimento rápido e inteligente.
+- **Soluções com IA:** Explorando o futuro do desenvolvimento inteligente.
 
 ---
 
@@ -35,7 +35,8 @@ Estes são alguns projetos que desenvolvi e que refletem minhas áreas de atuaç
 
 #### Plataformas e Landing Pages:
 * **[Mode - Fashion Platform](https://github.com/DeLazzari808/mode-landing-page)** - Landing page para o lançamento de uma plataforma para a indústria da moda.
-* **[Meu Portfólio](https://github.com/DeLazzari808/Portfolio)** - O site que você está visitando, construído com Vite, React e TypeScript para máxima performance.
+* **[Porto Frio](https://porto-frio.netlify.app/)** - Website institucional para uma empresa de cozinhas industriais, focado em apresentação de produtos e captação de orçamentos.
+* **[Meu Portfólio](https://delazzari-portfolio.vercel.app/)** - Site profissional apresentando minhas habilidades e projetos (o site que você está visitando).
 
 #### Provas de Conceito e Testes Técnicos:
 * **[React Figma Chess Game](https://github.com/DeLazzari808/react-figma-chess-game)** - Jogo de xadrez desenvolvido em React e Next.js a partir de um design no Figma, demonstrando habilidade em traduzir UI complexa em componentes funcionais.
