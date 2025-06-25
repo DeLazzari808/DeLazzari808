@@ -1,54 +1,79 @@
-# João Pedro De Lazzari ✨
+<h1 align="center">Olá, eu sou o João Pedro De Lazzari 👋</h1>
+<h3 align="center">Full-Stack Developer | Programando o mundo um commit de cada vez.</h3>
 
-### Full-Stack Dev | Java, JS, Vue.js | Node.js, React, Next.js | Em expansão: APIs, Segurança, IA, ML
----
+<p align="center">
+  <em>"De PHP a IA, a jornada é o código. Café ☕ e curiosidade são meus combustíveis."</em>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/delazzari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:delazzari.dev@gmail.com?subject=Oportunidade%20via%20GitHub%20-%20João%20Lazzari&body=Olá%20João,%0D%0A%0D%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20fiquei%20impressionado%20com%20sua%20experiência%20em%20desenvolvimento%20Full-Stack%20(PHP/JavaScript)%20e%20seu%20interesse%20em%20IA%20e%20Low-Code.%0D%0A%0D%0AGostaria%20de%20conversar%20mais%20sobre%20[Mencione%20o%20assunto%20aqui,%20ex:%20uma%20vaga,%20um%20projeto,%20colaboração].%0D%0A%0D%0AFico%20no%20aguardo%20do%20seu%20contato.%0D%0A%0D%0AAtenciosamente,%0D%0A[Seu%20Nome]" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:joaopedrodelazzari2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  </p>
-
-**Full-Stack Developer** with experience in architecting, developing, and deploying modern web applications. Specialized in the JavaScript ecosystem (React, Vite) and Firebase (Firestore, Authentication, Hosting), with a strong focus on component-based architecture, data security, and building digital products from the ground up.
-
----
-
-### 🛠️ **Tecnologias & Ferramentas que eu uso:**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,vue,jquery,bootstrap,git,github,vscode" alt="Linguagens e Ferramentas Principais" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=py,figma,aws" alt="Interesses em IA, Low-Code e Cloud" /> 
 </p>
 
-**Stack Principal:** PHP 7.4+, JavaScript, HTML5, CSS Responsivo, MySQL.
-**Frameworks/Bibliotecas:** Vue.js, jQuery, Bootstrap 5.
-**Conceitos:** APIs REST, Automação de Processos, Segurança Básica.
-**Interesses Atuais:** Inteligência Artificial (Agentes de IA), Plataformas Low-Code.
+---
+
+### 🚀 Sobre Mim
+
+Sou um Desenvolvedor Full-Stack de Curitiba, Brasil, com experiência em arquitetar, desenvolver e implantar aplicações web modernas e escaláveis. Minha especialidade reside no ecossistema JavaScript (**React, Vite, Node.js**) e **Firebase** (Firestore, Authentication), com grande foco em arquitetura baseada em componentes, segurança de dados e otimização de performance.
+
+Tenho um forte background em **PHP** e venho modernizando sistemas e explorando novas fronteiras com soluções de **Inteligência Artificial** e plataformas Low-Code.
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+    <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 **O que eu estou construindo/explorando:**
-
-* **Desenvolvimento de APIs & Integrações:** Construindo pontes entre sistemas para fazer a mágica acontecer.
-* **Otimização de Performance:** Obsessão por código rápido e eficiente.
-* **Modernização de Sistemas:** Transformando o legado em algo novo e funcional.
-* **Explorando Novas Soluções:** Mergulhando em Low-Code e IA para agilizar o desenvolvimento e criar soluções inteligentes.
-
----
-
-### 💬 **Vamos Trocar Uma Ideia!**
-
-Sempre aberto a colaborações e a aprender algo novo. Se tiver um projeto interessante ou só quiser conversar sobre tech, me chama!
-
----
-
-#### 📊 **Meu GitHub em números!**
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeLazzari808&show_icons=true&theme=dark" alt="Suas estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLazzari808&layout=compact&theme=dark" alt="Suas linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delazzari808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delazzari808&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+---
+
+### 📌 Projetos em Destaque
+
+Aqui estão alguns dos projetos que fixei no meu perfil e que representam bem meu trabalho:
+
+- **[Portfolio](https://github.com/DeLazzari808/Portfolio)**: O código-fonte deste próprio portfólio, construído para mostrar minhas habilidades.
+- **[Mode - Fashion Platform](https://github.com/DeLazzari808/mode-landing-page)**: Landing page para uma plataforma da indústria da moda.
+- **[Royal Cup](https://github.com/DeLazzari808/Royal-Cup)**: Aplicação full-stack para gerenciamento de campeonatos de futebol.
+- **[React Figma Chess Game](https://github.com/DeLazzari808/react-figma-chess-game)**: Jogo de xadrez customizado com React, Next.js e TS a partir de um design no Figma.
+
+<p align="right">(Atualizado em: June 25, 2025)</p>
