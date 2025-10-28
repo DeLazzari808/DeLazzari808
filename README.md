@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro De Lazzari</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | System Architecture & AI Integration</strong>
+  <strong>Full-Stack Developer | WEB3 Developer</strong>
 </p>
 
 <p align="center">
@@ -22,12 +22,7 @@
 
 ---
 
-### 💡 Foco Atual & Expertise
 
-- **Arquitetura de APIs & Microsserviços:** Construção de sistemas distribuídos e resilientes.
-- **Modernização de Sistemas Legados:** Refatoração e migração de aplicações para tecnologias modernas.
-- **Performance & Escalabilidade:** Otimização de sistemas para alta demanda.
-- **Automação & Soluções com IA:** Aplicação de inteligência artificial para otimizar processos.
 
 ---
 
