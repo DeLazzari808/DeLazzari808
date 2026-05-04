@@ -4,11 +4,6 @@
   <strong>Full-Stack Developer | WEB3 Developer</strong>
 </p>
 
-<p align="center">
-  Desenvolvedor Full-Stack especialista em arquitetar e modernizar sistemas, construir APIs de alta performance e integrar soluções de IA. Com proficiência em TypeScript, Java e no ecossistema Node.js, transformo desafios de negócio em plataformas digitais escaláveis e eficientes.
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/delazzari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
