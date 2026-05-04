@@ -35,11 +35,3 @@
 </p>
 
 ---
-
-### 💻 Projetos em Destaque
-
-* **[Royal Cup](https://github.com/DeLazzari808/Royal-Cup):** Aplicação completa para gestão de torneios de futebol, com dados em tempo real (Firebase) e interface reativa.
-* **[Porto Frio](https://porto-frio.netlify.app/):** Site institucional para empresa de cozinhas industriais, focado em apresentação de produtos e geração de orçamentos.
-* **[Meu Portfólio](https://delazzari-portfolio.vercel.app/):** Vitrine profissional com minhas habilidades e projetos.
-
-<br>
